@@ -1,0 +1,6 @@
+server1 65 40
+server2 82 75
+server3 91 88
+server4 45 30
+server5 78 55
+server6 95 92
